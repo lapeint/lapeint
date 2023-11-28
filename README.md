@@ -5,7 +5,7 @@ I'm a beginner web developer diving into the exciting world of programming and w
 
 - 🌐 **HTML**: Structuring the foundation of web pages.
 - 🎨 **CSS**: Styling and making things visually appealing.
-- 💻 **JavaScript**: Bringing interactivity and dynamism to the web.
+- 💻 **JavaScript**: Bringing interactivity and dynamism to the web and interact with API.
 
 ## Goals
 I aspire to:
